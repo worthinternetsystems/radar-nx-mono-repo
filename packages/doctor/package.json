@@ -5,7 +5,7 @@
   "author": "AndyR <aritchie@worth.systems>",
   "homepage": "https://github.com/worthinternetsystems/radar-nx-mono-repo#readme",
   "license": "MIT",
-  "main": "lib/doctor.js",
+  "main": "dist/doctor.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

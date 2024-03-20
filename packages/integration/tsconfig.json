@@ -1,0 +1,5 @@
+{
+  "extends": "../../rootconfig.json",
+  "include": ["./lib/**/*.ts"],
+  "compilerOptions": { "outDir": "dist" }
+}
