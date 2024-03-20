@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/worthinternetsystems/radar-nx-mono-repo.git"
   },
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
   "scripts": {
     "test": "node ./__tests__/patient.test.js",
     "build": "tsc"
