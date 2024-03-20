@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "doctor",
   "version": "0.0.0",
   "description": "When you are ill see me",
   "author": "AndyR <aritchie@worth.systems>",
@@ -18,7 +18,8 @@
     "url": "git+https://github.com/worthinternetsystems/radar-nx-mono-repo.git"
   },
   "scripts": {
-    "test": "node ./__tests__/doctor.test.js"
+    "test": "node ./__tests__/doctor.test.js",
+    "build": "tsc"
   },
   "bugs": {
     "url": "https://github.com/worthinternetsystems/radar-nx-mono-repo/issues"
